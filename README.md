@@ -1,5 +1,5 @@
 # 2023_2_character
-## 1. 과제 제출하는 방법
+## 1. 코드 제출하는 방법
 ### main branch에 Pull Request 하지 말아주세요!!!
 
 1. 해당 repository를 clone 하세요:
@@ -10,7 +10,7 @@ git clone https://github.com/jucheolkang/2023_2_character.git
 ```
 git checkout -b <새 브랜치 이름>
 ```
-3. 과제를 작성하시고, `./{폴더이름}/{nickName}` 디렉토리 저장해주세요.
+3. 과제를 작성하시고, 아래 컨벤션 규칙에 따라 저장해주세요.
 
 4. 해당 브랜치를 푸쉬해주세요.
 ```
