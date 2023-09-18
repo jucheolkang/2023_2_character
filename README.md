@@ -23,8 +23,8 @@ git push -u origin <새 브랜치 이름>
 
 ### 사용자 등록
 ```
-git config user.name “Your name”`
-git config user.email "Your email address"
+git config user.name "<Your name>"
+git config user.email <Your email address>
 ```
 
 ### 깃허브랑 폴더 연결하기
