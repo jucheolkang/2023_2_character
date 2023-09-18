@@ -1,5 +1,6 @@
 # 2023_2_character
 ## 1. 과제 제출하는 방법
+### main branch에 Pull Request 하지 말아주세요!!!
 
 1. 해당 repository를 clone 하세요:
 ```
@@ -7,13 +8,13 @@ git clone https://github.com/jucheolkang/2023_2_character.git
 ```
 2. 별도의 브랜치를 생성하세요:
 ```
-git checkout -b <새 브렌치 이름>
+git checkout -b <새 브랜치 이름>
 ```
 3. 과제를 작성하시고, `./{폴더이름}/{nickName}` 디렉토리 저장해주세요.
 
 4. 해당 브랜치를 푸쉬해주세요.
 ```
-git push -u origin <새 브렌치 이름>
+git push -u origin <새 브랜치 이름>
 ```
 5. Pull Request를 생성하여, 제출해주세요.
 
@@ -45,10 +46,20 @@ git commit -m “<메시지>”
 
 #### 깃허브에 파일 올리기
 ```
-git push -u origin <브렌치 이름>
+git push -u origin <브랜치 이름>
 ```
 
 ### 깃허브에서 파일 받아오기
 ```
-git pull origin <브렌치 이름>
+git pull origin <브랜치 이름>
 ```
+
+## 3. 컨벤션
+branch는 각자 이름 카멜케이스 (hyoEun)<br>
+커밋은 날짜만 (9/18)<br>
+폴더명은 몇주차인지(알고리즘썼으면 알고리즘까지) <br>
+    ex :  week1BinarySearch <br>
+파일명은 문제번호 (1001.py)
+
+## 4. Git - Downloads
+https://git-scm.com/download/win
