@@ -55,11 +55,11 @@ git pull origin <브랜치 이름>
 ```
 
 ## 3. 컨벤션
-branch는 각자 이름 카멜케이스 (hyoEun)<br>
-커밋은 날짜만 (9/18)<br>
-폴더명은 몇주차인지(알고리즘썼으면 알고리즘까지) <br>
-    ex :  week1BinarySearch <br>
-파일명은 문제번호 (1001.py)
+<li>branch는 각자 이름 카멜케이스 (hyoEun)<br>
+<li>커밋은 날짜만 (9/18)<br>
+<li>폴더명은 몇주차인지(알고리즘썼으면 알고리즘까지) <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ex :  week1BinarySearch <br>
+<li>파일명은 문제번호 (1001.py)
 
 ## 4. Git - Downloads
-https://git-scm.com/download/win
+https://git-scm.com/download
