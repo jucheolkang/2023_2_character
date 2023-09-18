@@ -26,6 +26,15 @@ git push -u origin <새 브랜치 이름>
 git config user.name "<Your name>"
 git config user.email <Your email address>
 ```
+### 사용자 등록 삭제
+```
+git config --global --unset user.name "<Your name>"
+git config --global --unset user.email <Your email address>
+```
+### 사용자 등록 확인
+```
+git config --global --list
+```
 
 ### 깃허브랑 폴더 연결하기
 ```
