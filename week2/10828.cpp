@@ -12,15 +12,13 @@ int main()
     int t, in2;
     string in1;
     cin >> t;
-    while (t--)
-    {
+    while (t--) {
         cin >> in1;
         if (in1 == "push") {
             cin >> in2;
             s.push(in2);
         }
-        else if (in1 == "pop")
-        {
+        else if (in1 == "pop") {
             if (s.empty()) cout << -1 << endl;
             else {
                 cout << s.top() << endl;
