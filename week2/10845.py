@@ -9,7 +9,6 @@ for i in range(N):
 
     if cmd[0] == "push":
         queue.insert(0, cmd[1])
-        ##print(queue)
 
     elif cmd[0] == "pop":
         if len(queue) != 0: print(queue.pop())
