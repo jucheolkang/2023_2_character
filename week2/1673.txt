@@ -1,0 +1,9 @@
+#include <stdio.h>
+
+int main() {
+    unsigned long long n, k, count;
+    while(scanf("%llu %llu", &n, &k) != EOF) {
+        count = 0;
+        // ... 도와주세요
+    }
+}
