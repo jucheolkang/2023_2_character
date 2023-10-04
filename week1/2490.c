@@ -14,5 +14,4 @@ int main() {
         else if (count == 3) printf("A\n");
         else if (count == 4) printf("E\n");
     }
-
 }
