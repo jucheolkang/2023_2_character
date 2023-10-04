@@ -1,6 +1,6 @@
 # 2023_2_character
 ## 1. 코드 제출하는 방법
-### main branch에 Pull Request 하지 말아주세요!!!
+### main branch에 Pull Request를 해서 코드리뷰를 진행해 주세요!!
 
 1. 해당 repository를 clone 하세요:
 ```
