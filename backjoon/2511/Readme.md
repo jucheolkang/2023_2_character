@@ -1,7 +1,12 @@
+# 문제 분석
 
 
+# 문제 풀이
 
-```
+
+# 답안 코드
+
+``` Python
 a = list(map(int, input().split()))
 b = list(map(int, input().split()))
 a_sum, b_sum = 0, 0
